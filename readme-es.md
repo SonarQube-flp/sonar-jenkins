@@ -5,7 +5,7 @@ Este repositorio contiene un Jenkinsfile de ejemplo para integrar SonarQube y Je
 [![en](https://img.shields.io/badge/en-english-blue.svg)](https://github.com/brainsDevopsOrg/sonar-jenkins/blob/main/readme.md)
 [![es](https://img.shields.io/badge/es-español-yellow.svg)](https://github.com/brainsDevopsOrg/sonar-jenkins/blob/main/readme-es.md)
 
-## Context
+## Context-
 El repositorio forma parte del contenido de mi curso de udemy:
 * [Domina SonarQube](https://www.udemy.com/course/domina-sonarqube/?referralCode=EF59257E7D8DC3026D6D)
 
